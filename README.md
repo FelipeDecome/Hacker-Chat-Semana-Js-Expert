@@ -13,7 +13,7 @@ cd client
 
 # Utilizando npm
 npm
-npm run start
+npm run start --userName username --room room01 --hostUri http://localhost:9898
 
 # Utilizando yarn
 yarn
