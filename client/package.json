@@ -5,7 +5,9 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev:user01": "node index.js --username felipedecome --room sala01 --hostUri http://localhost:9898",
+    "dev:user02": "node index.js --username isabelledecome --room sala01 --hostUri http://localhost:9898"
   },
   "keywords": [],
   "author": "",
